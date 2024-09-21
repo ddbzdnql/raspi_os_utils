@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=my_startup
+Comment=Runs my own startup routines at system startup.
+Exec=/home/shaozewxy/scripts/my_startup.sh
+Terminal=false
+Type=Application
+NoDisplay=true

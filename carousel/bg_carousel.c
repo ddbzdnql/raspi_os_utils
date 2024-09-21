@@ -23,6 +23,7 @@
 char * slide_show[MAX_NUM_SLIDES];
 int num_of_slides = 0;
 
+// The kernel for automatically changing the wallpaper.
 void* thread_kernel() {
     while (1) {
         int idx = rand() % num_of_slides;

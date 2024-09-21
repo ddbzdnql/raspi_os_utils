@@ -1,0 +1,4 @@
+# alias for quick opening code directories
+alias cgt='cd ~/GT && code .'
+alias csc='cd ~/scripts && code .'
+alias sssh='ssh-add ~/.ssh/raspi_os_ssh'
