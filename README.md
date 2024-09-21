@@ -1,4 +1,4 @@
-# Shaoze's Debian Util Scripts
+# Shaoze's Raspian OS Util Scripts
 
 ## Tl;DR
 This directory contains a list of scripts that help improving different functionalities of the Raspberry PI OS.
